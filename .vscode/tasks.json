@@ -4,7 +4,7 @@
 		{
 			"type": "cppbuild",
 			"label": "C/C++: cpp.exe build active file",
-			"command": "C:\\TDM-GCC-64\\bin\\cpp.exe",
+			"command": "C:\\TDM-GCC-64\\bin\\g++.exe",
 			"args": [
 				"-g",
 				"${file}",
@@ -18,7 +18,7 @@
 				"$gcc"
 			],
 			"group": "build",
-			"detail": "compiler: C:\\TDM-GCC-64\\bin\\cpp.exe"
+			"detail": "compiler: C:\\TDM-GCC-64\\bin\\g++.exe"
 		}
 	]
 }
